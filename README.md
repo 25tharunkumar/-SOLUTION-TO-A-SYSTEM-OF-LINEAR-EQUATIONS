@@ -15,7 +15,7 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
-#Program to find the soluion.
+#Program to find the solution for the given linear equations.
 #Developed by: Tharun Kmar.M
 #RegisterNumber:212222000156
 import numpy as np

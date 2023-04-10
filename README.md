@@ -15,6 +15,9 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 ```
+#Program to find the soluion.
+#Developed by: Tharun Kmar.M
+#RegisterNumber:212222000156
 import numpy as np
 A=np.array([[1,3],[2,5]])
 B=np.array([5,-3])
